@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="logo_horizontal_margin">16dp</dimen>
+    <dimen name="logo_top_margin">200dp</dimen>
+    <dimen name="logo_bottom_margin">50dp</dimen>
+    <dimen name="movie_title_textSize">20sp</dimen>
+    <dimen name="movie_image_margin_right">5dp</dimen>
+    <dimen name="movie_item_land_vertical_margin">4dp</dimen>
+    <dimen name="movie_item_land_horizontal_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
